@@ -1,10 +1,8 @@
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 🚀 Roger Mendoza Fortich
 
 ### Systems Engineer | Web Developer | Cloud & Tech Enthusiast
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 
 Passionate Systems Engineer focused on web development, cloud technologies, and continuous learning.  
 I enjoy building modern, scalable, and innovative digital solutions while exploring new technologies and improving my skills every day.
