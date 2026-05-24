@@ -60,9 +60,6 @@ I am always motivated to take on new challenges, create impactful projects, and 
 
 ---
 
-
----
-
 ##  Goals
 
 - Build impactful and innovative software solutions
