@@ -85,10 +85,7 @@ I am always motivated to take on new challenges, create impactful projects, and 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmendozafortich@gmail.com)
 
 ---
-
-<h3 align="center">Un apasionado desarrollador Web de Colombia</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogerjmf" alt="rogerjmf" /></a> </p>
+<h3 align="center">Un apasionado desarrollador web de Colombia</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
